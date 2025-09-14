@@ -1,10 +1,10 @@
-package org.example.load_balance_taller;
+package org.example.load_balancer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LoadBalanceTallerApplicationTests {
+class LoadBalancerApplicationTests {
 
     @Test
     void contextLoads() {
